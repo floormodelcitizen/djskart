@@ -1,0 +1,2 @@
+# djskart
+django ART template
